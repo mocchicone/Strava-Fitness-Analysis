@@ -23,7 +23,7 @@ We also created a Performance Analysis dashboard.  In this example, we can see h
 *Regression Analysis*
 * Can running pace be predicted based on elevation, heart rate, temperature, and athlete count?
 
-Various machine learning algorythms were utilized to understand how they would perform with the data set.  In the classification summary table below we can see that support vector analysis provided the most accurate results. 
+Various machine learning algorithms were utilized to understand how they would perform with the data set.  In the classification summary table below we can see that support vector analysis provided the most accurate results. 
 
 ![Classification](https://github.com/mocchicone/Strava-Fitness-Analysis/blob/master/machine_learning/Images/Classification_summary.PNG) 
 
