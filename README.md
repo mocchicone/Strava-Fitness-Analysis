@@ -34,8 +34,7 @@ Zhiyi Li: zhi465@ucsd.edu
 Michael Occhicone: mpocchicone@gmail.com
 
 
-## Where to find files:
-
+## File Locations:
 * Presentation: fitness trakcing machine learning.pdf
 * Machine learning classification: -> Machine Learning -> Classification
 * Machine learning regression: -> Machine Learning -> Regression
