@@ -28,9 +28,9 @@ Various machine learning algorythms were utilized to understand how they would p
 ![Classification](https://github.com/mocchicone/Strava-Fitness-Analysis/blob/master/machine_learning/Images/Classification_summary.PNG) 
 
 ## Contact Information
-John Bruner: jmbruner37@gmail.com
-Andrew Cliffe: acliffe45@gmail.com
-Zhiyi Li: zhi465@ucsd.edu
+John Bruner: jmbruner37@gmail.com  
+Andrew Cliffe: acliffe45@gmail.com  
+Zhiyi Li: zhi465@ucsd.edu  
 Michael Occhicone: mpocchicone@gmail.com
 
 
