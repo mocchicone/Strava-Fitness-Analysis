@@ -15,8 +15,7 @@ We also created a Performance Analysis dashboard.  In this example, we can see h
 
 ![Performance Analysis](https://github.com/mocchicone/Strava-Fitness-Analysis/blob/master/machine_learning/Images/Performance_Analysis.PNG)
 
-## Predictive Analytics Using Machine Learning:
-
+## Predictive Analytics Using Machine Learning (Classification and Regression):
 
 *Classification Analysis*
 * Can we use machine learning to accurately predict the type of workout based on factors such as heart rate, start time, and length of workout?
@@ -24,60 +23,25 @@ We also created a Performance Analysis dashboard.  In this example, we can see h
 *Regression Analysis*
 * Can running pace be predicted based on elevation, heart rate, temperature, and athlete count?
 
+Various machine learning algorythms were utilized to understand how they would perform with the data set.  In the classification summary table below we can see that support vector analysis provided the most accurate results. 
+
+![Classification](https://github.com/mocchicone/Strava-Fitness-Analysis/blob/master/machine_learning/Images/Classification_summary.PNG) 
+
+## Contact Information
+John Bruner: jmbruner37@gmail.com
+Andrew Cliffe: acliffe45@gmail.com
+Zhiyi Li: zhi465@ucsd.edu
+Michael Occhicone: mpocchicone@gmail.com
 
 
-## Executive Summary
-CitiBike data from June 2020 through September 2020 was analyzed to determine trends.  Key findings include:
-
-•	Service use has been increasing month over month although the overall increase was higher in men (+43%) than in women (+27%)  
-•	Women are underrepresented at the top 25 start stations, ranging from 27% to 43% use when compared to men.  
-•	Age data indicates that ridership numbers peak at 30 years old for both genders and both subscription types. 
-
-## Data Collection
-Citibike data was collected from June 2020 through September 2020 for New York city and consisted of 8.8 million records.  Records were segmented by subscription type, gender, age, trip duration, start location, and end location.  The data was collected from [CitiBike](https://www.citibikenyc.com/system-data).
-
-
-# Fitness tracking
-
-
-
-
-**Where to find files:**
+## Where to find files:
 
 * Presentation: fitness trakcing machine learning.pdf
-
 * Machine learning classification: -> Machine Learning -> Classification
-
 * Machine learning regression: -> Machine Learning -> Regression
-
 * SQL Database: -> database_zhiyi -> database_creation.ipynb + fitness_database.sqlite 
-
 * Tableau: Fitness Tracking Overview Final.twbx
-
 * Web: index.html
 
 
 
-**Project Questions:**
-
-
-*Regression Analysis*
-
-* Can running pace be predicted based on max pace, elevation, heart rate, temp, and athlete count?
-
-*Classification Analysis*
- 
-* Do specific running features relate more to a specific time of day?
-
-* Can we use machine learning to accurately predict the type of workout based on factors such as heart rate, start time, and length of workout?
-
-
-**Workflow**
-
-* Describe Fitness Tracking Data via Tableau
-
-* Machine Learning Analysis
-
-* Database Architecture using SQLite
-
-* Frontend Design with HTML/CSS/Bootstrap
