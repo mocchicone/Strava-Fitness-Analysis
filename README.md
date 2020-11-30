@@ -1,5 +1,5 @@
 # Foresee Your Activity: A Strava Machine Learning Project
-Machine learning project using Strava data.  Our goal was to create data visualizations, analytics, and predictive modeling, that could help athlete improve their training plan.  Fitness data was collected and analyzed from two participants.  A database was created using SQLite.  Data visualizations and analysis were created using Tableau.  Finally, classification and regression machine learning was conducted in Python and Scikit-learn library.    
+Machine learning project using Strava data.  Our goal was to create data visualizations, analytics, and predictive modeling that could help athlete improve their training plan.  Fitness data was collected and analyzed from two participants.  A database was created using SQLite.  Data visualizations and analysis were created using Tableau.  Finally, classification and regression machine learning was conducted in Python and Scikit-learn library.    
 
 The project presentation can be found here: [Project Presentation](https://github.com/mocchicone/Strava-Fitness-Analysis/blob/master/Fitness%20Tracking%20Machine%20Learning.pdf)
 
@@ -7,11 +7,14 @@ The Tableau storyboard can be found here: [Strava Tableau Analysis (https://publ
 
 ## Tableu Visualizations:
 
-We created a location analysis dashboard, that provides detailed data on each run as well as summary information on distance and temperature.
+We created a Location Analysis dashboard, that provides detailed data on each run as well as summary information on distance and temperature.
 ![Location Analysis](https://github.com/mocchicone/Strava-Fitness-Analysis/blob/master/machine_learning/Images/Location%20Analysis.PNG)
 
+We also created a Performance Analysis dashboard.  In this example, we can see how much the user is running each month and how elevation change impacts his running speed.
+![Performance Analysis](https://github.com/mocchicone/Strava-Fitness-Analysis/blob/master/machine_learning/Images/Performance_Analysis.PNG)
 
 ## Predictive Analytics Using Machine Learning:
+
 
 *Classification Analysis*
 * Can we use machine learning to accurately predict the type of workout based on factors such as heart rate, start time, and length of workout?
