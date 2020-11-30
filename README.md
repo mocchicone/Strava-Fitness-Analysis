@@ -1,12 +1,10 @@
 # Foresee Your Activity: A Strava Machine Learning Project
-Machine learning project using Strava data.  
-[4CYourActivity](https://github.com/mocchicone/Strava-Fitness-Analysis/blob/master/machine_learning/Images/Project1.PNG).
-
+Machine learning project using Strava data.  Fitness data collected from two participants.  Database created using SQLite.  Data Visualizations created using Tableau.  Classification and regression machine learning conducted in Python.     
 
 The Tableau storyboard can be found here: [Strava Tableau Analysis (https://public.tableau.com/profile/mike.occhicone#!/vizhome/StravaFitnessPredictiveAnalysis/FitnessTrackingDataOverview)
 
 
-**Project Questions:**
+## Project Questions:
 
 *Classification Analysis*
 * Can we use machine learning to accurately predict the type of workout based on factors such as heart rate, start time, and length of workout?
