@@ -3,7 +3,7 @@ Machine learning project using Strava data.  Our goal was to create data visuali
 
 The project presentation can be found here: [Project Presentation](https://github.com/mocchicone/Strava-Fitness-Analysis/blob/master/Fitness%20Tracking%20Machine%20Learning.pdf)
 
-The Tableau storyboard can be found here: [Strava Tableau Analysis](https://public.tableau.com/profile/mike.occhicone#!/vizhome/StravaFitnessPredictiveAnalysis/FitnessTrackingDataOverview)
+The Tableau storyboard can be found here: [Strava Tableau Analysis](https://public.tableau.com/profile/john.bruner#!/vizhome/FitnessTrackingOverviewFinal/FitnessTrackingDataOverview)
 
 ## Tableu Visualizations:
 
